@@ -1,0 +1,8 @@
+chardet==3.0.4
+contrib==0.3.0
+Django==3.2.6
+django-filter==2.4.0
+django-import-export==2.5.0
+django-simple-history==2.12.0
+djangorestframework==3.12.4
+Pillow==9.2.0
